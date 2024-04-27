@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BFA66AC0-CB5A-4D25-8B5D-9B29ABDEDF0C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="todolistUpdated/Methods.cs">
+    <Files>
+      <File FileName="todolistUpdated/Program.cs" Line="202" Column="28" IsPinned="True" />
+      <File FileName="todolistUpdated/bin/Debug/net7.0/taskcalendar.txt" Line="12" Column="29" IsPinned="True" />
+      <File FileName="todolistUpdated/Reader.cs" Line="22" Column="1" IsPinned="True" />
+      <File FileName="todolistUpdated/Methods.cs" Line="225" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="todolistUpdated" expanded="True">
+            <Node name="todolistUpdated" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.todolistUpdated PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
